@@ -5,7 +5,7 @@
  */
 /**
  *
- * @author NSAM
+ * @author Sonu
  */
 import java.io.*;
 public class Quiz {
