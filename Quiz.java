@@ -13,7 +13,7 @@ public class Quiz {
     {
         InputStreamReader read = new InputStreamReader(System.in);
         BufferedReader in = new BufferedReader(read);
-        //data[] is the array that holds both the questions and answers
+        //ques[] is the array that holds both the questions and answers
         
         
         String ques[] = {"What is the capital city of india ?\n [A]Delhi [B]New Delhi "
@@ -72,7 +72,7 @@ public class Quiz {
                 + "[A]World Wide Entity [B]World Wrestling Entertainment"
                 + " [C]World Web Entertainment",
         "Which of these countries has never won the Cricket World Cup?\n"
-                + "[A]England [B]Sri Lanka [C]Pakistan",
+                + "[A]Zimbabwe [B]Sri Lanka [C]Pakistan",
         
         
         
